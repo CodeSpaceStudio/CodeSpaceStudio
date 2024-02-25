@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @CodeSpaceStudio
+- 👀 I’m interested in coding and building.
+- 🌱 I’m currently learning GoLang and Kotlin.
+- 💞️ I’m looking to collaborate on my team.
+- 📫 My e-mail is "codespacestudio@gingtalk.com".
+- 😄 Pronouns: Student
+- ⚡ Fun fact: I have been build for three apps!
